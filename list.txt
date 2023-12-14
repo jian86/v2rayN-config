@@ -1,2 +1,2 @@
 vless://bae93d80-cdc3-4fda-a573-be05823ba0df@edtunnel.vyos.com.cn:2096?encryption=none&security=tls&sni=edtunnel-01.pages.dev&fp=randomized&type=ws&host=edtunnel-01.pages.dev&path=%2F%3Fed%3D2048#EDtunnel-01
-vless://bae93d80-cdc3-4fda-a573-be05823ba0df@time.cloudflare.com:2096?encryption=none&security=tls&sni=edtunnel-01.pages.dev&fp=randomized&type=ws&host=edtunnel-01.pages.dev&path=%2F%3Fed%3D2048#EDtunnel-03
+vless://bae93d80-cdc3-4fda-a573-be05823ba0df@time.cloudflare.com:2096?encryption=none&security=tls&sni=edtunnel-01.pages.dev&fp=randomized&type=ws&host=edtunnel-01.pages.dev&path=%2F%3Fed%3D2048#EDtunnel-02
